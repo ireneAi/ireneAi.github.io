@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T07:26:25.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Dt3Ia_Bf1JnH-lgeiLU-" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:51:51.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fu9Tq3mepADPGPlwlSrq" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Gjq8ToB4pKgkKWKwZSHa">
-    <mxGraphModel dx="1881" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,13 +38,13 @@
           <mxGeometry x="-189.99687434002112" y="512.2222222222223" width="770.1478352692711" height="55.555555555555564" as="geometry" />
         </mxCell>
         <mxCell id="Xx7bTSWL394uWPmBl_L8-42" value="" style="group;verticalAlign=middle;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-129.36726504751852" y="523.3333333333334" width="754.1644772967262" height="36.111111111111114" as="geometry" />
+          <mxGeometry x="-123.37" y="523.33" width="739.37" height="36.11" as="geometry" />
         </mxCell>
         <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-10" value="&lt;p&gt;@ohos/axios&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Xx7bTSWL394uWPmBl_L8-42" vertex="1">
-          <mxGeometry width="345.7073168431019" height="33.33333333333334" as="geometry" />
+          <mxGeometry width="338.9255613980824" height="33.3323076923077" as="geometry" />
         </mxCell>
         <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-9" value="&lt;p&gt;@ohos/httpclient&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Xx7bTSWL394uWPmBl_L8-42" vertex="1">
-          <mxGeometry x="359.0037521062981" width="345.7073168431019" height="33.33333333333334" as="geometry" />
+          <mxGeometry x="351.9611599133932" width="338.9255613980824" height="33.3323076923077" as="geometry" />
         </mxCell>
         <mxCell id="Xx7bTSWL394uWPmBl_L8-49" value="公共能力" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fontSize=17;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="60.02213305174229" y="345.5555555555556" width="167.42344244984156" height="155.55555555555557" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-5" value="color网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-123.02999999999999" y="684.44" width="223.23" height="35.56" as="geometry" />
         </mxCell>
-        <mxCell id="Xx7bTSWL394uWPmBl_L8-12" value="网络请求" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
+        <mxCell id="Xx7bTSWL394uWPmBl_L8-12" value="网络框架" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
           <mxGeometry x="-189.99687434002112" y="334.4444444444445" width="44.64625131995775" height="233.33333333333337" as="geometry" />
         </mxCell>
         <mxCell id="Xx7bTSWL394uWPmBl_L8-15" value="服务" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;spacingLeft=6;spacingRight=6;" parent="1" vertex="1">
@@ -97,10 +97,10 @@
         <mxCell id="Xx7bTSWL394uWPmBl_L8-45" value="私有协议" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="620.0200633579725" y="523.3333333333334" width="172.21175290390704" height="33.33333333333334" as="geometry" />
         </mxCell>
-        <mxCell id="Xx7bTSWL394uWPmBl_L8-53" value="加解密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="Xx7bTSWL394uWPmBl_L8-53" value="加解密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="380" y="267.23" width="200" height="33.33" as="geometry" />
         </mxCell>
-        <mxCell id="Xx7bTSWL394uWPmBl_L8-54" value="接口加固" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="Xx7bTSWL394uWPmBl_L8-54" value="接口加固（jdguade)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="620.0200633579725" y="562.2222222222224" width="172.21175290390704" height="33.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="Xx7bTSWL394uWPmBl_L8-63" value="容灾性" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fontSize=17;strokeColor=none;" parent="1" vertex="1">
@@ -187,7 +187,7 @@
         <mxCell id="qaZd-rDAwsvRVKcqdw6P-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="399.99945089757125" y="384.44444444444446" width="167.42344244984156" height="107.7777777777778" as="geometry" />
         </mxCell>
-        <mxCell id="qaZd-rDAwsvRVKcqdw6P-3" value="广告 / 曝光 / 埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qaZd-rDAwsvRVKcqdw6P-2">
+        <mxCell id="qaZd-rDAwsvRVKcqdw6P-3" value="&amp;nbsp;曝光 / 埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qaZd-rDAwsvRVKcqdw6P-2">
           <mxGeometry y="82.22222222222223" width="167.42344244984156" height="33.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="qaZd-rDAwsvRVKcqdw6P-4" value="全链路监控能力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qaZd-rDAwsvRVKcqdw6P-2">
