@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T03:58:18.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2nVwwjhTkq7HSc_QLA4u" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T05:02:20.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ppzhB_0KlF_PO7K0_wd1" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Gjq8ToB4pKgkKWKwZSHa">
     <mxGraphModel dx="1156" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,16 +20,19 @@
           <mxGeometry x="180" y="650" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-6" value="请求公共参配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="545" width="350" height="40" as="geometry" />
+          <mxGeometry x="720" y="450" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-8" value="请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="545" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-9" value="&lt;p&gt;@ohos/axios&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="490" width="490" height="40" as="geometry" />
+        <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="490" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-10" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;@ohos/httpclient&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="490" width="480" height="40" as="geometry" />
+        <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-9" value="&lt;p&gt;@ohos/axios&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="B4-yQ_Ca6P6K2vOYtcmQ-11">
+          <mxGeometry width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4-yQ_Ca6P6K2vOYtcmQ-10" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;@ohos/httpclient&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="B4-yQ_Ca6P6K2vOYtcmQ-11">
+          <mxGeometry x="265.30612244897964" width="254.69387755102042" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
